@@ -1,0 +1,5 @@
+train: C:\Users\Soler\Desktop\yolov5\data\train\images
+val: C:\Users\Soler\Desktop\yolov5\data\valid\images
+
+nc: 2
+names: ['camarao', 'pizza']
